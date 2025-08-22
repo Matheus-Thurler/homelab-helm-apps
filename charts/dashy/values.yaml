@@ -138,7 +138,7 @@ static:
   
       # Main content - An array of sections, each containing an array of items
       sections:
-        - name: Serviços
+        - name: Serviços de Monitoramento
           displayData:
             collapsed: false
           items:
