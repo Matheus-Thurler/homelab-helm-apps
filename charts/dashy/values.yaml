@@ -151,7 +151,7 @@ static:
             statusCheckAllowInsecure: true
             statusCheckInterval: 20
           - title: Grafana
-            description: Grafana
+            description: Grafana e Prometheus
             icon: mdi-bell-alert
             url: https://grafana-matheus.me/
             statusCheckUrl: http://prometheus-grafana.monitoring/
