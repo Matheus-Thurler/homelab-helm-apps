@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: api-gateway-prod
+  name: dashy
   namespace: argocd
 spec:
   project: default
