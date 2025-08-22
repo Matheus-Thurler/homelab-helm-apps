@@ -158,3 +158,11 @@ static:
             statusCheck: true
             statusCheckAllowInsecure: true
             statusCheckInterval: 20
+          - title: ArgoCD
+            description: ArgoCD
+            icon: mdi-bell-alert
+            url: http://argo.matheus.me/
+            statusCheckUrl: http://argo.matheus.me/
+            statusCheck: true
+            statusCheckAllowInsecure: true
+            statusCheckInterval: 20
